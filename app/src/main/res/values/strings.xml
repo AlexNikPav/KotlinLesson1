@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">KotlinLesson1</string>
+    <string name="button_1">Кнопка</string>
 </resources>
